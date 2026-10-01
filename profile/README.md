@@ -18,6 +18,6 @@ under your own account.
 
 - **Site:** [jaah.ai](https://jaah.ai/?utm_source=github&utm_medium=social&utm_campaign=profile)
 - **Start here:** [Getting started](https://jaah.ai/getting-started?utm_source=github&utm_medium=social&utm_campaign=profile) · [Tutorials](https://jaah.ai/tutorials?utm_source=github&utm_medium=social&utm_campaign=profile) · [Blog](https://jaah.ai/blog?utm_source=github&utm_medium=social&utm_campaign=profile)
-- **Early access:** [join the waitlist](https://jaah.ai/contact?utm_source=github&utm_medium=social&utm_campaign=profile)
+- **Early access:** [join the waitlist](https://jaah.ai/waitlist?utm_source=github&utm_medium=social&utm_campaign=profile)
 
 <sub>Jaah. It is just another harness. That is the whole pitch.</sub>
