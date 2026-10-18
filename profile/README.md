@@ -1,6 +1,6 @@
 # Jaah — Just Another Agentic Harness
 
-**A production-grade AI slop generator.** AI agents on your own machines, for code, research,
+**A production-grade AI generated code.** AI agents on your own machines, for code, research,
 marketing and reporting.
 
 ### Your machines. The agents just visit.
