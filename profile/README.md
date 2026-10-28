@@ -1,23 +1,32 @@
-# Jaah — Just Another Agentic Harness
+# Jaah: Head of Agents
 
-**A production-grade AI generated code.** AI agents on your own machines, for code, research,
-marketing and reporting.
+**Production-grade AI-generated code.** AI agents on your own machines, held to your rules, reviewed
+before merge. The agents report to Jaah. Jaah reports to you.
 
-### Your machines. The agents just visit.
+### The machines you choose. The accounts you own.
 
-The control plane and the agents run on infrastructure you operate. Your code goes to your own
-repositories on GitHub and to the model provider behind your agents — Anthropic, OpenAI or Google —
-under your own account.
+Agents run on the machines you choose — your own, ones launched in your AWS account, or ones Jaah runs
+for you. Your code goes to your own repositories — on GitHub, GitLab, Bitbucket or Azure DevOps — and to
+the model provider behind your agents, under your own account.
 
-- Agents run on your own machines, under model accounts you add yourself
-- Repositories on GitHub; changes reviewed and merged there
+- Agents run under model accounts you add yourself
+- Changes reviewed and merged in your own repositories
 - Credentials handed to each run by a broker on the machine
 - A private copy of the code per task, many agents at once
 
-### The slop still has to pass your tests.
+### Open source
+
+- **[Jaah Community Edition](https://github.com/jaah-ai/jaah-ce)** — the console and its agents for one
+  person on one computer, free, installed with one command, running up to three agents at once.
+- **[Agent SDK](https://github.com/jaah-ai/agent-sdk)** — open source, Apache-2.0. Write an agent in Python
+  or TypeScript that runs on Jaah with the same log, questions and credentials as every built-in one; a
+  reference agent in each language, and a suite that checks any agent against the spec.
+- **[Agent Connectors](https://github.com/jaah-ai/agent-connectors)** — connectors built on the SDK that
+  bring a coding tool, a model loop or a bot of another kind under Jaah: reviewed, then listed in every
+  organisation's catalog. Propose yours there.
+
+### Start here
 
 - **Site:** [jaah.ai](https://jaah.ai/?utm_source=github&utm_medium=social&utm_campaign=profile)
-- **Start here:** [Getting started](https://jaah.ai/getting-started?utm_source=github&utm_medium=social&utm_campaign=profile) · [Tutorials](https://jaah.ai/tutorials?utm_source=github&utm_medium=social&utm_campaign=profile) · [Blog](https://jaah.ai/blog?utm_source=github&utm_medium=social&utm_campaign=profile)
-- **Early access:** [join the waitlist](https://jaah.ai/waitlist?utm_source=github&utm_medium=social&utm_campaign=profile)
-
-<sub>Jaah. It is just another harness. That is the whole pitch.</sub>
+- **Read:** [Documentation](https://docs.jaah.ai/) · [Tutorials](https://jaah.ai/tutorials?utm_source=github&utm_medium=social&utm_campaign=profile) · [Blog](https://jaah.ai/blog?utm_source=github&utm_medium=social&utm_campaign=profile)
+- **Start free:** [app.jaah.ai/signup](https://app.jaah.ai/signup?utm_source=github&utm_medium=social&utm_campaign=profile)
